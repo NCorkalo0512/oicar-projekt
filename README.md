@@ -1,2 +1,8 @@
 # oicar-projekt
-Projekt napravljen za potrebe kolegija oblikovanje i izrada cjelovitog aplikativnog rješenja
+The first is a desktop application, crafted using WPF (C#) technology, primarily aimed at administrators for overseeing user activities within the web application. This desktop app is designed to facilitate robust management of user profiles, encompassing a range of administrative functionalities including unique login credentials for administrators, a home page displaying all registered users, and comprehensive CRUD operations on user profiles.
+
+Complementing the desktop application is a user-centric web application, developed using React (JS). This application serves as a social networking platform, enabling users to connect with each other, find colleagues, and collaborate on various projects. It offers features such as user registration and login, profile management, and a home page that displays interactive user cards for fostering connections. Additionally, a chat feature with a 'seen' status enhances user communication.
+
+Both applications are designed to be intuitive and user-friendly, ensuring ease of use. They communicate with a database managed by SSMS, with interactions facilitated through a REST API. A significant emphasis is placed on security and privacy, with user data securely stored and managed in compliance with GDPR standards. The project commits to delivering comprehensive documentation, code, and a fully functional application upon completion.
+
+This dual-application system not only aims to streamline administrative tasks but also to foster user interaction and collaboration, encapsulating the dynamic essence of modern networking and management tools.
