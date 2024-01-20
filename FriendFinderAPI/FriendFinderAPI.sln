@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FriendFinderAPI", "FriendFinderAPI\FriendFinderAPI.csproj", "{962BD163-0A9A-41E7-980E-20D7D826AB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITest", "APITest\APITest.csproj", "{B6552889-E794-4144-8901-89C4C3A74202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962BD163-0A9A-41E7-980E-20D7D826AB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962BD163-0A9A-41E7-980E-20D7D826AB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962BD163-0A9A-41E7-980E-20D7D826AB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962BD163-0A9A-41E7-980E-20D7D826AB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6552889-E794-4144-8901-89C4C3A74202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6552889-E794-4144-8901-89C4C3A74202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6552889-E794-4144-8901-89C4C3A74202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6552889-E794-4144-8901-89C4C3A74202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C18D7C-B0FC-4FA9-A48B-84FF1A0DC6BD}
+	EndGlobalSection
+EndGlobal
